@@ -1,0 +1,26 @@
+{
+  "name": "assert-extended",
+  "version": "1.0.0",
+  "description": "Core assert library extended slightly with few more assertion methods",
+  "main": "lib/assert.js",
+  "scripts": {
+    "test": "env NODE_ENV=test mocha --recursive --use_strict"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheThing/assert-extended.git"
+  },
+  "keywords": [
+    "assert",
+    "test"
+  ],
+  "author": "Jonatan Nilsson",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TheThing/assert-extended/issues"
+  },
+  "homepage": "https://github.com/TheThing/assert-extended#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
