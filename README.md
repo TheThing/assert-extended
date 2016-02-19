@@ -1,4 +1,4 @@
-# assert-extended
+# assert-extended [![Build Status](https://travis-ci.org/TheThing/assert-extended.svg?branch=master)](https://travis-ci.org/TheThing/assert-extended)
 A complimenting library for `require('assert')` with a few more assertions being made available.
 
 # Installation
