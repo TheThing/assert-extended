@@ -1,3 +1,5 @@
+'use strict';
+
 const assert = require('assert');
 const util = require('util');
 const assertExtended = require('../lib/assert');

@@ -4,7 +4,7 @@
   "description": "Core assert library extended slightly with few more assertion methods",
   "main": "lib/assert.js",
   "scripts": {
-    "test": "env NODE_ENV=test mocha --recursive --use_strict"
+    "test": "env NODE_ENV=test mocha --recursive"
   },
   "repository": {
     "type": "git",
