@@ -1,6 +1,6 @@
 {
   "name": "assert-extended",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Core assert library extended slightly with few more assertion methods",
   "main": "lib/assert.js",
   "scripts": {
